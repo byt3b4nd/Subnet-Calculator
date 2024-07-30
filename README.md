@@ -24,7 +24,7 @@ Provides color-coded output for better readability.
 
 ### Usage
 ### Run the script and follow the prompts to enter the IP address, subnet mask, and the number of subnets required:
-    python subnet_calculator.py
+    python main.py
 
 ### Example input:
       Enter IP address (e.g., 10.10.10.0): 192.168.1.0
