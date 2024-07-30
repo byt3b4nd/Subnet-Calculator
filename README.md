@@ -14,7 +14,8 @@ Provides color-coded output for better readability.
 
 ### Installation
 ###  1. Clone the repository
-    git clone https://github.com/yourusername/subnet-calculator.git
+    git clone https://github.com/byt3b4nd/Subnet-Calculator.git
+
 ### 2. Navigate to the project directory:
       cd subnet-calculator
 ### 3. Install the required package:
